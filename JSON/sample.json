@@ -1,0 +1,30 @@
+{
+  "data":
+[
+  {
+    "name": "Ujjwal Gupta",
+    "age": 21,
+    "email": "ujjwal@gmail.com"
+  },
+  {
+    "name": "Akshit Patel",
+    "age": 28,
+    "email": "akshit@gmail.com"
+  },
+  {
+    "name": "Deepak Singh",
+    "age": 30,
+    "email": "deepak@gmail.com"
+  },
+  {
+    "name": "Saloni Baruaa",
+    "age": 24,
+    "email": "saloni@gmail.com"
+  },
+  {
+    "name": "Rishi Kumar",
+    "age": 32,
+    "email": "rishi@gmail.com"
+  }
+]
+}
